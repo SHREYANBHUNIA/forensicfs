@@ -17,5 +17,5 @@
 - [x] Test signed-upload validation and filtered timeline behavior, visually verify the dashboard, and save an enhancement checkpoint.
 - [x] Replace the paid external-worker configuration with a no-cost self-hosted FastAPI endpoint pattern and local development default.
 - [x] Add concise GitHub deployment instructions for the React dashboard and separately hosted FastAPI/C++ forensic worker.
-- [ ] Create a private GitHub repository under the connected account and push the validated ForensicFS source.
-- [ ] Confirm the pushed repository URL and document the required deployment environment split.
+- [x] Create a private GitHub repository under the connected account and push the validated ForensicFS source.
+- [x] Confirm the pushed repository URL and document the required deployment environment split.
