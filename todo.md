@@ -10,3 +10,9 @@
 - [x] Build a React forensic dashboard with a high-contrast white typographic visual system, offset grayscale display title, and restrained red forensic accents.
 - [x] Add foundational automated tests for the analysis contracts and forensic record transformations.
 - [x] Run type checks and automated tests, validate the dashboard visually, and create a delivery checkpoint.
+- [x] Define the signed-upload contract, maximum evidence limits, and authenticated object-key namespace for dashboard disk-image intake.
+- [x] Add a protected signed-upload mutation and post-upload case analysis handoff without persisting disk-image bytes in database rows.
+- [x] Add a dashboard upload flow with file validation, upload progress, integrity digest calculation, and case intake feedback.
+- [x] Add timeline event-type filter controls for creation, modification, access, metadata change, and deletion events.
+- [x] Test signed-upload validation and filtered timeline behavior, visually verify the dashboard, and save an enhancement checkpoint.
+- [x] Replace the paid external-worker configuration with a no-cost self-hosted FastAPI endpoint pattern and local development default.
