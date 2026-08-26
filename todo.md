@@ -19,3 +19,5 @@
 - [x] Add concise GitHub deployment instructions for the React dashboard and separately hosted FastAPI/C++ forensic worker.
 - [x] Create a private GitHub repository under the connected account and push the validated ForensicFS source.
 - [x] Confirm the pushed repository URL and document the required deployment environment split.
+- [ ] Rewrite existing Git commit author and committer metadata as CSE - 148 - SHREYAN BHUNIA <shreyan.bhunia.k@gmail.com> and force-update the private GitHub branch.
+- [ ] Verify GitHub displays the rewritten author identity and confirm the repository history is synchronized.
